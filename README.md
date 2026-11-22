@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://readme-typing-svg.demolab.com/?size=30&amp;duration=2200&amp;pause=1200&amp;color=F5CFE8&amp;background=242837&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=620&amp;height=92&amp;lines=Hi%2C+I%27m+Hind+Khial" width="620" height="92" alt="Hi, I'm Hind Khial"></h1>
+  <h1><img src="https://readme-typing-svg.demolab.com/?size=30&amp;duration=2200&amp;pause=1200&amp;color=783E70&amp;background=F9EAF4&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=620&amp;height=92&amp;lines=Hi%2C+I%27m+Hind+Khial" width="620" height="92" alt="Hi, I'm Hind Khial"></h1>
   <p><strong>Computer engineering student · Software development</strong></p>
   <p>I build for web and mobile, with a soft spot for thoughtful interfaces. ✿</p>
 </div>
