@@ -1,0 +1,34 @@
+name: Refresh Bubble Garden
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'bubble_garden.py'
+      - '.github/workflows/bubble-garden.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bubble-garden
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render public contribution calendar
+        run: python3 bubble_garden.py
+      - name: Commit updated artwork
+        run: |
+          git add bubble-garden.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh Bubble Garden'
+          git push
