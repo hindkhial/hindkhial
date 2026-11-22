@@ -41,6 +41,4 @@ A course and user management system spanning a PHP web portal, a Java console ap
   <img src="./bubble-garden.svg" width="704" alt="A plum butterfly lands on each active day, leaves a pink or lilac bloom, and clears the square to pastel pink.">
 </p>
 
-The butterfly leaves pink and lilac blooms as it wanders. When it lands on an active day, that square turns pastel pink.
-
 [View my GitHub activity →](https://github.com/hindkhial)
