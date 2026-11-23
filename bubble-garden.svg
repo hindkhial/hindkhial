@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="772" height="126" viewBox="0 0 772 126" role="img" aria-labelledby="title desc">
 <title id="title">Bubble Garden</title>
-<desc id="desc">Public GitHub contribution calendar for hindkhial, 2025-11-23 through 2026-11-22. Darker lilac cells indicate more activity. A plum butterfly wanders through the garden leaving pink and lilac blooms. When it lands on an active day, that square turns pastel pink.</desc>
+<desc id="desc">Public GitHub contribution calendar for hindkhial, 2025-11-23 through 2026-11-23. Darker lilac cells indicate more activity. A plum butterfly wanders through the garden leaving pink and lilac blooms. When it lands on an active day, that square turns pastel pink.</desc>
 <rect width="772" height="126" rx="14" fill="#faf0f8"/>
 <rect x="17" y="16" width="10" height="10" rx="2.5" fill="#f3dfe9"/>
 <rect x="17" y="30" width="10" height="10" rx="2.5" fill="#f3dfe9"/>
@@ -366,7 +366,8 @@
 <rect x="731" y="72" width="10" height="10" rx="2.5" fill="#f3dfe9"/>
 <rect x="731" y="86" width="10" height="10" rx="2.5" fill="#f3dfe9"/>
 <rect x="731" y="100" width="10" height="10" rx="2.5" fill="#e3c8ef"><animate attributeName="fill" values="#e3c8ef;#f3dfe9;#f3dfe9" keyTimes="0;0.7990969;1" calcMode="discrete" dur="28.076451612903217s" repeatCount="indefinite"/></rect>
-<rect x="745" y="16" width="10" height="10" rx="2.5" fill="#e3c8ef"><animate attributeName="fill" values="#e3c8ef;#f3dfe9;#f3dfe9" keyTimes="0;0.1510047;1" calcMode="discrete" dur="28.076451612903217s" repeatCount="indefinite"/></rect>
+<rect x="745" y="16" width="10" height="10" rx="2.5" fill="#cb9fdf"><animate attributeName="fill" values="#cb9fdf;#f3dfe9;#f3dfe9" keyTimes="0;0.1510047;1" calcMode="discrete" dur="28.076451612903217s" repeatCount="indefinite"/></rect>
+<rect x="745" y="30" width="10" height="10" rx="2.5" fill="#f3dfe9"/>
 <g transform="translate(16.82 42.10)" fill="#c8529a" opacity="0">
 <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0.0000000;0.0047777;0.0076270;0.0706692;1.0000000" dur="28.076451612903217s" repeatCount="indefinite"/>
 <circle cx="0" cy="-3" r="2.6"/>
